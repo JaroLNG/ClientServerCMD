@@ -1,6 +1,5 @@
 import socket
 import sys
-import time
 
 
 # This script was written for learning purposes. Do not run this on anyones computer without the owners consent.
